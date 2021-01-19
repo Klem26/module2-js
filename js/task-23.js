@@ -10,5 +10,5 @@ for (const number of numbers) {
 }
 return (arr);
 }
-filterArray([1, 2, 3, 4, 5], 3);
+console.log(filterArray([1, 2, 3, 4, 5], 3));
 filterArray([1, 2, 3, 4, 5], 4);
